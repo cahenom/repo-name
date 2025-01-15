@@ -4,8 +4,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",  // Skrip untuk memulai aplikasi
-    "build": "npm run start"  // Skrip untuk build aplikasi
+    "start": "node app.js",  
+    "build": "npm run start" 
   },
   "author": "",
   "license": "ISC",
